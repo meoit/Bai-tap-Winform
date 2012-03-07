@@ -1,0 +1,2 @@
+D:\Thanh\DTU\Bai tap\Bai tap C#\ViDu\ViDu\obj\Debug\ViDu.exe
+D:\Thanh\DTU\Bai tap\Bai tap C#\ViDu\ViDu\obj\Debug\ViDu.pdb
